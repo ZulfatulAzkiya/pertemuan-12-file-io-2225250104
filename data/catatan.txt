@@ -1,0 +1,4 @@
+Catatan Pertemuan 12
+Materi: File I/O dan Error Handling
+File digunakan untuk menyimpan data agar dapat dibaca kembali.
+Error handling digunakan untuk menangani kesalahan saat program dijalankan.
