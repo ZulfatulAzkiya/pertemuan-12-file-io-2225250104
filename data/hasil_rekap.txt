@@ -1,0 +1,10 @@
+HASIL REKAP NILAI SISWA
+======================
+Ani  : 85
+Budi : 78
+Citra: 90
+Dinda: 88
+Eko  : 75
+
+Jumlah siswa: 5
+Rata-rata nilai: 83.2
